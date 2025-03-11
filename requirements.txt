@@ -1,0 +1,6 @@
+%%writefile requirements.txt
+streamlit
+ultralytics
+pillow
+numpy
+pyngrok
