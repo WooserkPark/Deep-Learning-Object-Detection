@@ -1,4 +1,4 @@
 # Deep Learning Object Detection (Work-in-progress)
  
 ## Currently Developing
-## Application Demo Version: https://f38575f9f8cf.ngrok.app/
+## Application Demo Version: https://6007eb072136.ngrok.app
