@@ -20,8 +20,8 @@
 
 #### Note: Data come from Bluesky International Ltd (sample data)
 
-## Application Development Demo Version (any objects): https://6007eb072136.ngrok.app
-## YOLO Application (Reference: https://github.com/ultralytics/ultralytics)
+## Application Development Demo: https://6007eb072136.ngrok.app
+Reference: YOLO (Link: https://github.com/ultralytics/ultralytics)
 
 #### Aerial Imagery (Raw Image)
 ![11726](https://github.com/user-attachments/assets/c1a94769-4ecb-4c8a-9026-820ea02fa87b)
