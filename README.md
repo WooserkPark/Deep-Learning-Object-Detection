@@ -1,6 +1,4 @@
 # Deep Learning Object Detection (Work-in-progress)
- 
-## Currently Developing
 
 ## Object Detection in Aerial Imagery: Car Detection in QGIS
 
