@@ -18,7 +18,7 @@ Segmentation
 
 ![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/03_outcome/vehicles-segmentation.gif)
 
-Sources: YOLO (Link: https://docs.ultralytics.com/) and META SAM2 (Link: https://ai.meta.com/sam2/)
+Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai.meta.com/sam2/), and Roboflow (highway video)
 
 ## Object Detection in Aerial Imagery: Car Detection in QGIS
 
