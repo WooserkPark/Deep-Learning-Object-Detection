@@ -6,17 +6,17 @@
 ### Examples:
 
 #### Video (Raw Video from Roboflow)
-![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/02_image/vehicles.gif)
+![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/04_image/vehicles.gif)
 
 #### Moving Captured (Vehicles)
 
 Object Detection
 
-![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/03_outcome/vehicles-detection.gif)
+![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/05_outcome/vehicles-detection.gif)
 
 Segmentation
 
-![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/03_outcome/vehicles-segmentation.gif)
+![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/05_outcome/vehicles-segmentation.gif)
 
 Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai.meta.com/sam2/)
 
