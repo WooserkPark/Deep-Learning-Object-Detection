@@ -5,7 +5,7 @@
 
 ### Examples:
 
-#### Video (Raw Video)
+#### Video (Raw Video: from Roboflow)
 ![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/02_image/vehicles.gif)
 
 #### Moving Captured (Vehicles)
@@ -18,7 +18,7 @@ Segmentation
 
 ![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/03_outcome/vehicles-segmentation.gif)
 
-Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai.meta.com/sam2/), and Roboflow (highway video)
+Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai.meta.com/sam2/)
 
 ## Object Detection in Aerial Imagery: Car Detection in QGIS
 
