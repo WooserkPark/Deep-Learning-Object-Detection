@@ -1,8 +1,19 @@
 # Deep Learning Object Detection (Work-in-progress)
 
-## Object Detection in Aerial Imagery: Car Detection in QGIS
 
-### Examples:
+## Moving Object Detection (PyTorch)
+
+### Example:
+
+#### Video (Raw Video)
+![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/02_image/vehicles.gif)
+
+#### Moving Captured (Vehicles)
+![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/03_outcome/vehicles-sam2.gif)
+
+Sources: META SAM2 (Link: https://ai.meta.com/sam2/) and Roboflow/Supervision ("vehicles" videos)
+
+## Object Detection in Aerial Imagery: Car Detection in QGIS
 
 #### Aerial Imagery (Raw Image)
 ![car detection image sample before](https://github.com/user-attachments/assets/00fa1404-e371-4733-9014-c54e6d3267d4)
