@@ -24,7 +24,7 @@ Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai
 
 ### Examples:
 
-#### Aerial Imagery (Raw Image)
+#### Aerial Imagery (Raw Image: from Bluesky International Ltd (sample data))
 ![car detection image sample before](https://github.com/user-attachments/assets/00fa1404-e371-4733-9014-c54e6d3267d4)
 
 #### Detected Imagery (Car Detection)
@@ -36,10 +36,7 @@ Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai
 #### Segmented Imagery (Segmentation Only)
 ![segmentation image sample after 2](https://github.com/user-attachments/assets/ee62870a-3327-43c3-91d6-bba8bd00fbf3)
 
-#### Note: Data come from Bluesky International Ltd (sample data)
-
 ## Application Development Demo: https://6007eb072136.ngrok.app
-Reference: YOLO
 
 ### Examples:
 
