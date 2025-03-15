@@ -16,7 +16,7 @@ Object Detection
 
 Segmentation
 
-![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/03_outcome/vehicles-sam2.gif)
+![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/03_outcome/vehicles-segmentation.gif)
 
 Sources: META SAM2 (Link: https://ai.meta.com/sam2/), Roboflow/Supervision ("vehicles" videos and instructions), and YOLO (Link: https://github.com/ultralytics/ultralytics)
 
