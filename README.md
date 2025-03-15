@@ -5,7 +5,7 @@
 
 ### Examples:
 
-#### Video (Raw Video: from Roboflow)
+#### Video (Raw Video from Roboflow)
 ![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/02_image/vehicles.gif)
 
 #### Moving Captured (Vehicles)
@@ -24,7 +24,7 @@ Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai
 
 ### Examples:
 
-#### Aerial Imagery (Raw Image: from Bluesky International Ltd (sample data))
+#### Aerial Imagery (Raw Image from Bluesky International Ltd (sample data))
 ![car detection image sample before](https://github.com/user-attachments/assets/00fa1404-e371-4733-9014-c54e6d3267d4)
 
 #### Detected Imagery (Car Detection)
