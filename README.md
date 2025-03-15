@@ -3,15 +3,22 @@
 
 ## Moving Object Detection (PyTorch)
 
-### Practice Example:
+### Examples:
 
 #### Video (Raw Video)
 ![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/02_image/vehicles.gif)
 
 #### Moving Captured (Vehicles)
+
+Object Detection
+
+![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/03_outcome/vehicles-detection.gif)
+
+Segmentation
+
 ![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/03_outcome/vehicles-sam2.gif)
 
-Sources: META SAM2 (Link: https://ai.meta.com/sam2/) and Roboflow/Supervision ("vehicles" videos)
+Sources: META SAM2 (Link: https://ai.meta.com/sam2/), Roboflow/Supervision ("vehicles" videos and instructions), and YOLO (Link: https://github.com/ultralytics/ultralytics)
 
 ## Object Detection in Aerial Imagery: Car Detection in QGIS
 
@@ -32,7 +39,7 @@ Sources: META SAM2 (Link: https://ai.meta.com/sam2/) and Roboflow/Supervision ("
 #### Note: Data come from Bluesky International Ltd (sample data)
 
 ## Application Development Demo: https://6007eb072136.ngrok.app
-Reference: YOLO (Link: https://github.com/ultralytics/ultralytics)
+Reference: YOLO
 
 ### Examples:
 
