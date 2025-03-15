@@ -1,11 +1,11 @@
 # Deep Learning Object Detection (Work-in-progress)
 
 
-## Moving Object Detection (PyTorch)
+## Moving Object Detection
 
 ### Examples:
 
-#### Video (Raw Video)
+#### Video (Raw Video from Roboflow)
 ![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/02_image/vehicles.gif)
 
 #### Moving Captured (Vehicles)
@@ -16,15 +16,15 @@ Object Detection
 
 Segmentation
 
-![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/03_outcome/vehicles-sam2.gif)
+![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/03_outcome/vehicles-segmentation.gif)
 
-Sources: META SAM2 (Link: https://ai.meta.com/sam2/), Roboflow/Supervision ("vehicles" videos and instructions), and YOLO (Link: https://github.com/ultralytics/ultralytics)
+Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai.meta.com/sam2/)
 
 ## Object Detection in Aerial Imagery: Car Detection in QGIS
 
 ### Examples:
 
-#### Aerial Imagery (Raw Image)
+#### Aerial Imagery (Raw Image from Bluesky International Ltd (sample data))
 ![car detection image sample before](https://github.com/user-attachments/assets/00fa1404-e371-4733-9014-c54e6d3267d4)
 
 #### Detected Imagery (Car Detection)
@@ -36,12 +36,7 @@ Sources: META SAM2 (Link: https://ai.meta.com/sam2/), Roboflow/Supervision ("veh
 #### Segmented Imagery (Segmentation Only)
 ![segmentation image sample after 2](https://github.com/user-attachments/assets/ee62870a-3327-43c3-91d6-bba8bd00fbf3)
 
-#### Note: Data come from Bluesky International Ltd (sample data)
-
-## Application Development Demo: https://6007eb072136.ngrok.app
-Reference: YOLO
-
-### Examples:
+## Image Object Detection
 
 #### Aerial Imagery (Raw Image)
 ![11726](https://github.com/user-attachments/assets/c1a94769-4ecb-4c8a-9026-820ea02fa87b)
@@ -50,3 +45,6 @@ Reference: YOLO
 ![Object Detection Practice Sample Planes](https://github.com/user-attachments/assets/ef29585c-3c2d-4cd5-818a-ea11ec358a61)
 
 #### Note: I am currently searching for the open data provider and will update this information as soon as possible. Thanks to the contributing authors for sharing (as of March 13, 2025).
+
+
+### (Work-in-progress) Application Development Demo: https://6007eb072136.ngrok.app
