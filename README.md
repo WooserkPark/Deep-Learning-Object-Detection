@@ -1,7 +1,7 @@
 # Deep Learning Object Detection (Work-in-progress)
 
 
-## Moving Object Detection (PyTorch)
+## Moving Object Detection
 
 ### Examples:
 
@@ -36,9 +36,7 @@ Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai
 #### Segmented Imagery (Segmentation Only)
 ![segmentation image sample after 2](https://github.com/user-attachments/assets/ee62870a-3327-43c3-91d6-bba8bd00fbf3)
 
-## Application Development Demo: https://6007eb072136.ngrok.app
-
-### Examples:
+## Image Object Detection
 
 #### Aerial Imagery (Raw Image)
 ![11726](https://github.com/user-attachments/assets/c1a94769-4ecb-4c8a-9026-820ea02fa87b)
@@ -47,3 +45,6 @@ Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai
 ![Object Detection Practice Sample Planes](https://github.com/user-attachments/assets/ef29585c-3c2d-4cd5-818a-ea11ec358a61)
 
 #### Note: I am currently searching for the open data provider and will update this information as soon as possible. Thanks to the contributing authors for sharing (as of March 13, 2025).
+
+
+### (Work-in-progress) Application Development Demo: https://6007eb072136.ngrok.app
