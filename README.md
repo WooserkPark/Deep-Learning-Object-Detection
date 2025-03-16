@@ -3,12 +3,10 @@
 
 ## Moving Object Detection
 
-### Examples:
+### Moving Vehicle Detection and Tracking:
 
-#### Video (Raw Video from Roboflow)
+#### Raw Video (from Roboflow)
 ![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/04_image/vehicles.gif)
-
-#### Moving Captured (Vehicles)
 
 Object Detection
 
@@ -18,7 +16,23 @@ Segmentation
 
 ![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/05_outcome/vehicles-segmentation.gif)
 
+
+### Moving Vehicle Detection and Licence Plate Information Extraction:
+
+#### Raw Video (from Pexels by Mike Bird)
+![highway](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/04_image/highway.gif)
+
+Object Detection (Cars and Trucks)
+
+![highway](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/05_outcome/highway-detection.gif)
+
+Licence Plate Information Extraction Sample
+
+![highway-detection-excel](https://github.com/user-attachments/assets/376fcec5-6967-471b-8dcc-950ecb9b4656)
+
 Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai.meta.com/sam2/)
+
+&nbsp;
 
 ## Object Detection in Aerial Imagery: Car Detection in QGIS
 
@@ -35,6 +49,8 @@ Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai
 
 #### Segmented Imagery (Segmentation Only)
 ![segmentation image sample after 2](https://github.com/user-attachments/assets/ee62870a-3327-43c3-91d6-bba8bd00fbf3)
+
+&nbsp;
 
 ## Image Object Detection
 
