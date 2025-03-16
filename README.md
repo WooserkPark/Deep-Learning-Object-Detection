@@ -60,7 +60,7 @@ Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai
 #### Detected Imagery (Airplane)
 ![Object Detection Practice Sample Planes](https://github.com/user-attachments/assets/ef29585c-3c2d-4cd5-818a-ea11ec358a61)
 
-#### Note: I am currently searching for the open data provider and will update this information as soon as possible. Thanks to the contributing authors for sharing (as of March 13, 2025).
+Note: I am currently searching for the open data provider and will update this information as soon as possible. Thanks to the contributing authors for sharing (as of March 13, 2025).
 
 
 ### (Work-in-progress) Application Development Demo: https://6007eb072136.ngrok.app
