@@ -52,6 +52,21 @@ Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai
 
 &nbsp;
 
+## Super Resolution
+
+#### Aerial Imagery (Raw Image)
+![11727](https://github.com/user-attachments/assets/bdf82db5-cdf6-494d-86e0-44c183b813ec)
+
+#### Enhanced Image (with 20 training images)
+![edsr_super_res_20pics](https://github.com/user-attachments/assets/882d1622-eb9a-43ed-ba2d-8733a006612b)
+
+#### Enhanced Image (with 600 training images)
+![edsr_super_res_600pics](https://github.com/user-attachments/assets/fe9f0e41-96ff-4ce8-9839-4e3c33ec1af9)
+
+Note: I will continue to improve the training model by incorporating additional images as computing resources become available.
+
+&nbsp;
+
 ## Image Object Detection
 
 #### Aerial Imagery (Raw Image)
