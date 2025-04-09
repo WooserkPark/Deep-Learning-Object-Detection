@@ -5,7 +5,7 @@
 
 ### Moving Vehicle Detection and Tracking:
 
-#### Raw Video (from Roboflow)
+#### Ground Truth (from Roboflow)
 ![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/04_image/vehicles.gif)
 
 Object Detection
@@ -19,7 +19,7 @@ Segmentation
 
 ### Moving Vehicle Detection and Licence Plate Information Extraction:
 
-#### Raw Video (from Pexels by Mike Bird)
+#### Ground Truth (from Pexels by Mike Bird)
 ![highway](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/04_image/highway.gif)
 
 Object Detection (Cars and Trucks)
@@ -38,7 +38,7 @@ Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai
 
 ### Examples:
 
-#### Aerial Imagery (Raw Image from Bluesky International Ltd (sample data))
+#### Aerial Imagery (Ground Truth from Bluesky International Ltd (sample data))
 ![car detection image sample before](https://github.com/user-attachments/assets/00fa1404-e371-4733-9014-c54e6d3267d4)
 
 #### Detected Imagery (Car Detection)
@@ -54,7 +54,7 @@ Sources: YOLO (Link: https://docs.ultralytics.com/), META SAM2 (Link: https://ai
 
 ## Super Resolution
 
-#### Aerial Imagery (Raw Image)
+#### Aerial Imagery (Ground Truth)
 ![11727](https://github.com/user-attachments/assets/bdf82db5-cdf6-494d-86e0-44c183b813ec)
 
 #### Enhanced Image (with 20 training images)
@@ -69,7 +69,7 @@ Note: I will continue to improve the training model by incorporating additional 
 
 ## Image Object Detection
 
-#### Aerial Imagery (Raw Image)
+#### Aerial Imagery (Ground Truth)
 ![11726](https://github.com/user-attachments/assets/c1a94769-4ecb-4c8a-9026-820ea02fa87b)
 
 #### Detected Imagery (Airplane)
