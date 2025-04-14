@@ -3,7 +3,9 @@
 
 ## Moving Object Detection
 
-### Moving Vehicle Detection and Tracking:
+### Moving Vehicle Detection and Tracking (Note: Due to the size of some larger video files, loading may be slow.):
+
+
 
 Ground Truth (from Roboflow)
 ![vehicles](https://github.com/WooserkPark/Deep-Learning-Object-Detection/blob/main/04_image/vehicles.gif)
